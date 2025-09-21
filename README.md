@@ -36,14 +36,14 @@ bankms.exe
 ## 📸 Project Output
 
 ### 🔹 Menu Screen
-<img src="assets/menu.png" alt="Menu Screen" width="600"/>
+<img src="assets/images/menu.png" alt="Menu Screen" width="600"/>
 
 ### 🔹 Account Creation
-<img src="assets/account_creation.png" alt="Account Creation" width="600"/>
+<img src="assets/images/detail.png" alt="Account Creation" width="600"/>
 
 ### 🔹 Deposit / Withdrawal
-<img src="assets/deposit.png" alt="Deposit/Withdrawal" width="600"/>
-<img src="assets/withdrawal.png" alt="Deposit/Withdrawal 2" width="600"/>
+<img src="assets/images/deposit.png" alt="Deposit/Withdrawal" width="600"/>
+<img src="assets/images/withdraw.png" alt="Deposit/Withdrawal 2" width="600"/>
 
 ---
 
